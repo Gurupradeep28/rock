@@ -1,0 +1,35 @@
+
+            body{
+                background-color:black;
+                color:dimgray;
+                font-size:30px ;
+            }
+            .buttonStyle{
+                
+                border-radius:25px;
+                
+                
+                
+                
+            }
+            .imageStyle{
+                
+                height:80px;
+                border-radius:60px;
+            }
+            .title{
+            
+                font-size: 50px;
+                font-family: Arial;
+                font-weight: bold;
+                color:white;
+            }
+            .resetStyle{
+                padding:15px;
+                font-size: 15px;
+                font-weight: bold;
+                background-color: red;
+                border-radius: 20px;
+                margin-left:10px;
+                font-family: Arial;
+            }
